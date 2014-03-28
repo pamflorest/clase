@@ -1,3 +1,3 @@
 <?php
-PAM
+PAM PRUEBA
 ?>
